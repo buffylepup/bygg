@@ -147,6 +147,7 @@ Ranks above equity holders
 Is serviced only from distributable surplus
 
 No fixed payments are guaranteed.
+<*May refer to capital deployment model under 1.1*>
 >
 
 ---
