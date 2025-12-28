@@ -132,8 +132,9 @@ Voting rights over real-world operations
 **3.2 How does yield/revenue flow back to the token holder?**
 *(e.g., Monthly airdrops of stablecoins, automatic buy-back and burn of the token, or adding to a liquidity pool?)*
 > **Answer:**
->
->
+>Liquidity pool layering and deeping.
+>May grow treasury depending on the market performance and revenue.
+<*LP and treasury will be under DAO governance*>
 
 **3.3 What happens if the property needs maintenance or emergency funds?**
 *(e.g., Is a portion of revenue held back in a treasury reserve?)*
